@@ -22,11 +22,5 @@ El código incluido en este repositorio está escrito en Python y utiliza divers
 
 ## Contribuidores
 
-- [Tu nombre de usuario de GitHub]
-
-## Referencias
-
-- [Enlace al conjunto de datos original en Kaggle]
-- [Otros recursos utilizados en el proyecto]
-
+- Emilio Jesús Ávila González
 
